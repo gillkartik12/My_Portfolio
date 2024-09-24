@@ -458,6 +458,9 @@ span {
 .testimonial-item p {
   font-size: 1.3rem;
 }
+.testimonial-item i {
+  font-size: 1.9rem;
+}
 #star {
   color: gold;
   font-size: 2rem;
